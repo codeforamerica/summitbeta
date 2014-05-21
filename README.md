@@ -27,7 +27,7 @@ This is a basic style guide to create some consistency. Please follow these basi
 
 **Sans-serif: Montserrat**
 
-* Download: https://github.com/codeforamerica/minisummit/tree/master/designs/fonts/montserrat
+* Download: https://raw.github.com/codeforamerica/minisummit/tree/master/designs/fonts/montserrat
 * Use for: headers, big type
 
 **Serif: FF Tisa Pro**
@@ -37,6 +37,30 @@ This is a basic style guide to create some consistency. Please follow these basi
 
 ### Color palette
 
-ssssss
+![color guide](https://raw.githubusercontent.com/codeforamerica/minisummit/master/designs/colors/color-blocks.jpg "color guide")
 
-Color palette based off of [Firenze Kuler theme](https://kuler.adobe.com/Firenze-color-theme-24198/). 
+**Foam**
+* RGB: 70/137/102
+* HEX: #468966
+
+**Cream**
+* RGB: 255/240/165
+* HEX: #FFF0A5
+
+**Sunshine**
+* RGB: 255/176/59
+* HEX: #FFB03B
+
+**Orange**
+* RGB: 182/73/38
+* HEX: #B64926
+
+**Brick**
+* RGB: 142/40/0
+* HEX: 8E2800
+
+Color palette based off of [Firenze Kuler theme](https://kuler.adobe.com/Firenze-color-theme-24198/). Download the [swatch file](https://raw.githubusercontent.com/codeforamerica/minisummit/master/designs/colors/color-palette.ase) and import it into your favorite Adobe graphics editor.
+
+### Logo mark
+
+*Coming soon.*
