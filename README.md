@@ -13,7 +13,7 @@ Let's plan for Summit (beta)! Please put collateral/design work/etc. in this rep
 
 #### Mini-summit landing page
 
-* Check out the `gh-pages` branch to work on the minisummit website
+* Check out the `gh-pages` branch to work on the Summit (beta) website
 
 #### Tasks going forward
 
@@ -27,7 +27,7 @@ This is a basic style guide to create some consistency. Please follow these basi
 
 **Sans-serif: Montserrat**
 
-* Download: https://raw.github.com/codeforamerica/minisummit/tree/master/designs/fonts/montserrat
+* Download: https://raw.github.com/codeforamerica/summitbeta/tree/master/designs/fonts/montserrat
 * Use for: headers, big type
 
 **Serif: FF Tisa Pro**
@@ -37,7 +37,7 @@ This is a basic style guide to create some consistency. Please follow these basi
 
 ### Color palette
 
-![color guide](https://raw.githubusercontent.com/codeforamerica/minisummit/master/designs/colors/color-blocks.jpg "color guide")
+![color guide](https://raw.githubusercontent.com/codeforamerica/summitbeta/master/designs/colors/color-blocks.jpg "color guide")
 
 **Foam**
 * RGB: 70/137/102
@@ -59,7 +59,7 @@ This is a basic style guide to create some consistency. Please follow these basi
 * RGB: 142/40/0
 * HEX: 8E2800
 
-Color palette based off of [Firenze Kuler theme](https://kuler.adobe.com/Firenze-color-theme-24198/). Download the [swatch file](https://raw.githubusercontent.com/codeforamerica/minisummit/master/designs/colors/color-palette.ase) and import it into your favorite Adobe graphics editor.
+Color palette based off of [Firenze Kuler theme](https://kuler.adobe.com/Firenze-color-theme-24198/). Download the [swatch file](https://raw.githubusercontent.com/codeforamerica/summitbeta/master/designs/colors/color-palette.ase) and import it into your favorite Adobe graphics editor.
 
 ### Logo mark
 
