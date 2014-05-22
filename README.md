@@ -34,33 +34,3 @@ This is a basic style guide to create some consistency. Please follow these basi
 
 * Download: https://typekit.com/fonts/ff-tisa-web-pro (requires Adobe Creative Cloud/Typekit subscription)
 * Use for: body type (screen and print), subheaders, accent type 
-
-### Color palette
-
-![color guide](https://raw.githubusercontent.com/codeforamerica/summitbeta/master/designs/colors/color-blocks.jpg "color guide")
-
-**Foam**
-* RGB: 70/137/102
-* HEX: #468966
-
-**Cream**
-* RGB: 255/240/165
-* HEX: #FFF0A5
-
-**Sunshine**
-* RGB: 255/176/59
-* HEX: #FFB03B
-
-**Orange**
-* RGB: 182/73/38
-* HEX: #B64926
-
-**Brick**
-* RGB: 142/40/0
-* HEX: 8E2800
-
-Color palette based off of [Firenze Kuler theme](https://kuler.adobe.com/Firenze-color-theme-24198/). Download the [swatch file](https://raw.githubusercontent.com/codeforamerica/summitbeta/master/designs/colors/color-palette.ase) and import it into your favorite Adobe graphics editor.
-
-### Logo mark
-
-*Coming soon.*
