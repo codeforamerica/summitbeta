@@ -1,7 +1,7 @@
-Planning for Summit (beta)
+Planning for BETA
 =========
 
-Let's plan for Summit (beta)! Please put collateral/design work/etc. in this repo.
+Let's plan for BETA! Please put collateral/design work/etc. in this repo.
 
 #### Uploading design work
 
@@ -11,9 +11,9 @@ Let's plan for Summit (beta)! Please put collateral/design work/etc. in this rep
 * A web-ready or print-ready export (.jpg, .png, etc.)
 * Any dependencies for your original file (artwork, typefaces)
 
-#### Mini-summit landing page
+#### BETA landing page
 
-* Check out the `gh-pages` branch to work on the Summit (beta) website
+* Check out the `gh-pages` branch to work on the BETA website
 
 #### Tasks going forward
 
